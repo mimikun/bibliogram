@@ -1,0 +1,5 @@
+= Bibliogram
+
+This repository is mimikun's fork.
+
+Original: https://sr.ht/~cadence/bibliogram/
